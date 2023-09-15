@@ -1,0 +1,11 @@
+numpy
+torch
+nltk
+datasets
+pytorch
+scikit-learn
+tqdm
+evaluate
+transformers
+gensim
+pandas
