@@ -2,10 +2,12 @@ numpy
 torch
 nltk
 datasets
-pytorch
+torch
 scikit-learn
 tqdm
 evaluate
 transformers
 gensim
 pandas
+sentence_transformers
+transformers[torch]
